@@ -1,5 +1,5 @@
 {
-  "name": "ang2-s6-assign6.1",
+  "name": "angular-quickstart",
   "version": "0.0.0",
   "license": "MIT",
   "scripts": {
@@ -23,13 +23,12 @@
     "@angular/router": "^4.0.0",
     "bootstrap": "^3.3.7",
     "core-js": "^2.4.1",
-    "ip": "^1.1.5",
     "jquery": "^3.2.1",
     "rxjs": "^5.1.0",
     "zone.js": "^0.8.4"
   },
   "devDependencies": {
-    "@angular/cli": "1.1.2",
+    "@angular/cli": "1.1.0",
     "@angular/compiler-cli": "^4.0.0",
     "@angular/language-service": "^4.0.0",
     "@types/jasmine": "2.5.45",
